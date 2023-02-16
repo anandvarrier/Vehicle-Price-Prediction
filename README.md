@@ -3,7 +3,7 @@ The following project is created using vehicle data set from Kaagle. I have used
 
 Steps taken to execute the project
 
-Step 1: Download data from Kaagle ()
+Step 1: Download data from Kaagle (https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho?select=car+data.csv)
 
 Step 2: 
   a) Launch Ananconda Prompt (Anaconda) 
